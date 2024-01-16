@@ -50,7 +50,7 @@ Before you start solving any problem, you need the data, sometimes collecting it
 
 Data, whether open or closed, commonly has errors, be it duplicate data, null value errors, bad formatting or the like. This actively harms the data analysis work and can give false insights. Cleaning your data and ensuring it is correct is a very important task. It's something that depends a lot on your database but of course there are steps you can apply to any database in order to find such errors.
 
-#### [Data cleansing. (article)][https://www.techtarget.com/searchdatamanagement/definition/data-scrubbing]
+#### [Data cleansing. (article)](https://www.techtarget.com/searchdatamanagement/definition/data-scrubbing)
 
 #### [Data cleasing tools. (article)](https://careerfoundry.com/en/blog/data-analytics/best-data-cleaning-tools/)
 
