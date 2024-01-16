@@ -34,8 +34,8 @@ Different from the data types in programming languages ​​(integer, strings, 
 It is also important to know the difference between the types of data analysis and what problems they can help you solve.
 #### [Differences between types of data analytics. (article)](https://online.hbs.edu/blog/post/types-of-data-analysis)
 
-
-
+<br>
+<br>
 
 ### Data transformation
 ---
@@ -66,8 +66,8 @@ Data engineering is extremely important because data engineers abstract the coll
 Going much deeper into data engineering.
 #### [Fundamental of data engineering. (book)](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302)
 
-
-
+<br>
+<br>
 
 ### Statistics
 ---
@@ -92,8 +92,8 @@ To delve deeper into this and other statistics topics, I recommend.
 Seems a little off topic, but it's not.
 #### [Artificial Intelligence Made Simple. (video)](https://www.youtube.com/watch?v=KLYI2eLGtlY)
 
-
-
+<br>
+<br>
 
 ### Data visualization.
 ---
@@ -113,8 +113,8 @@ Examples of how to apply graphics to certain scenarios and how to manipulate the
 
 #### [Data visualization with Python. (course)](https://cognitiveclass.ai/courses/data-visualization-python)
 
-
-
+<br>
+<br>
 
 ### ETL Tools
 ---
@@ -141,8 +141,8 @@ There are several tools that simplify the reduction, transformation and consumpt
 
 ---
 
-
-
+<br>
+<br>
 
 ## Plataforms
 
