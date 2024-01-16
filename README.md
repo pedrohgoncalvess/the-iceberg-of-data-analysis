@@ -14,7 +14,7 @@ Even if you want to solve/identify problems that are not related to a for-profit
 
 #### [Solving problems in your company with data. (article)](https://www.datacamp.com/blog/how-to-analyze-data-for-business)
 
-#### [Data life cycle. (article)](It can be helpful to think of research data management in terms of a research data lifecycle and the data-related activities that take place at stages during this lifecycle. The diagram below and the following legend illustrate this lifecyle in seven stages.)
+#### [Data life cycle. (article)](https://www.reading.ac.uk/research-services/research-data-management/about-research-data-management/the-research-data-lifecycle)
 
 #### [Transactional vs Analytical data. (article)](https://click360.ai/2020/05/03/transactional-vs-analytical-data/)
 
@@ -138,8 +138,6 @@ There are several tools that simplify the reduction, transformation and consumpt
 #### [Pentaho training. (video)](https://www.youtube.com/watch?v=ayFt9L0n_rM)
 
 #### [Pentaho Features & Capabilities](https://help.hitachivantara.com/Documentation/Pentaho/Data_Integration_and_Analytics/9.1/Products/Pentaho_Data_Integration)
-
----
 
 <br>
 <br>
