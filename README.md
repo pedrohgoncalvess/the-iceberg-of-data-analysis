@@ -5,9 +5,9 @@ Data is the future and not just for training artificial intelligence, which is w
 **I strongly recommend that you study these concepts until their application is clear, if necessary read other articles or take other courses**
 
 
-## Articles, courses and videos
+## Articles, courses and videos.
 
-### Important basic concepts
+### Important basic concepts.
 
 Even if you want to solve/identify problems that are not related to a for-profit organization, it is important to understand the concept of BI because it is transferable knowledge, with transferable knowledge I refer to something that you can easily apply to other areas of your life.
 #### [Introduction to B.I. (article)](https://www.cio.com/article/272364/business-intelligence-definition-and-solutions.html)
@@ -24,12 +24,14 @@ Even if you want to solve/identify problems that are not related to a for-profit
 Understanding how to build data systems to manage and optimize processes.
 #### [Indicadores de desempenho. (book, PT-BR)](https://www.amazon.com.br/Indicadores-desempenho-Andresa-Francischini/dp/8550801720)
 
----
+
+
 
 Different from the data types in programming languages ​​(integer, strings, booleans), in data analysis you have 4 categories that group all types of data. It is important to know the difference between the 4 types because they answer different questions.
 #### [4 Types of data. (article)](https://www.upgrad.com/blog/types-of-data/)
 
----
+
+
 
 It is also important to know the difference between the types of data analysis and what problems they can help you solve.
 #### [Differences between types of data analytics. (article)](https://online.hbs.edu/blog/post/types-of-data-analysis)
@@ -37,7 +39,7 @@ It is also important to know the difference between the types of data analysis a
 <br>
 <br>
 
-### Data transformation
+### Data transformation.
 ---
 
 Before you start solving any problem, you need the data, sometimes collecting it is much more challenging than you imagine, for this there are some tools, methodologies and even websites that can facilitate this work, but it is important to understand what the data collection before then.
@@ -46,7 +48,7 @@ Before you start solving any problem, you need the data, sometimes collecting it
 
 #### [Types of data collection and tools. (article)](https://www.questionpro.com/blog/data-collection-tools/)
 
----
+
 
 Data, whether open or closed, commonly has errors, be it duplicate data, null value errors, bad formatting or the like. This actively harms the data analysis work and can give false insights. Cleaning your data and ensuring it is correct is a very important task. It's something that depends a lot on your database but of course there are steps you can apply to any database in order to find such errors.
 
@@ -54,7 +56,7 @@ Data, whether open or closed, commonly has errors, be it duplicate data, null va
 
 #### [Data cleasing tools. (article)](https://careerfoundry.com/en/blog/data-analytics/best-data-cleaning-tools/)
 
----
+
 
 Data engineering is extremely important because data engineers abstract the collection, storage, processing and at least part of the transformation of data to data scientists and analysts.
 
@@ -69,7 +71,7 @@ Going much deeper into data engineering.
 <br>
 <br>
 
-### Statistics
+### Statistics.
 ---
 
 Data are records of real-world events and to be able to extract true insights you will need a large layer of data, to be able to “summarize” them you will use central measures, distributions, probability, correlation, etc. To solve different types of problems, learn how and when to apply them correctly.
@@ -116,7 +118,7 @@ Examples of how to apply graphics to certain scenarios and how to manipulate the
 <br>
 <br>
 
-### ETL Tools
+### ETL Tools.
 ---
 
 There are several tools that simplify the reduction, transformation and consumption of data. They are highly recommended especially when you have structured data. I'll leave some for you to play with and choose on your own.
